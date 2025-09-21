@@ -1,12 +1,9 @@
 # Visualising and Cleaning Sales Data of a Restaurant
 ## Overview 
-The purpose of this project is to demonstrate the cleaning and visualising of sales data on an interactive dashboard using Excel from a dummy restaurant where each row represents a different order made by a customer.  
+The goal of this project is to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer paying behaviour and revenue trends.  
 The original dataset, cleaned dataset, pivot tables and dashboard can all be found here [here](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_sales_data.xlsx).
 
 Here is a snapshot of the dashboard: ![restaurant dashboard](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_dashboard.png)
-
-## Objective
-The goal of this project was to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer paying behaviour and revenue trends.
 
 ## Data structure
 The dataset consists of 1 table with 17,535 rows.
