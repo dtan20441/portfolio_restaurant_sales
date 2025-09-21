@@ -6,7 +6,7 @@ The original dataset, cleaned dataset, pivot tables and dashboard can all be fou
 Here is a snapshot of the dashboard: ![restaurant dashboard](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_dashboard.png)
 
 ## Objective
-The goal of this project was to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer behaviour and revenue trends.
+The goal of this project was to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer paying behaviour and revenue trends.
 
 ## Data structure
 The dataset consists of 1 table with 17,535 rows.
