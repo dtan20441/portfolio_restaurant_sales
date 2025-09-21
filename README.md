@@ -16,9 +16,9 @@ The dataset consists of 1 table with 17,535 rows.
 1. **Data cleaning**: Checked for missing values and tried filling them in based on known information.
 2. **Visualisations from Pivot Tables**: 
 - Line chart for revenue trend.
-- Bar chart for top performing menu items.
+- Horizontal bar chart for top performing menu items.
 - Pie chart for payment method distribution.
-- Column chart for category-level revenue contribution.
+- Vertical bar chart for category-level revenue contribution.
 3. **KPI cards**: Created dynamic KPI cards (Average Order Value, Count of Orders, Total Revenue) using Pivot Tables.
 4. **Dashboard design**: Applied consisting formatting, colours and visualisation placements for a professional appearance.
  
