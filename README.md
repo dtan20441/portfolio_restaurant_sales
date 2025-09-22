@@ -10,7 +10,7 @@ The dataset consists of 1 table with 17,535 rows.
 ![Image of dataset](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_schema.png)
 
 ## Process
-1. **Data cleaning**: Item names and prices were missing, with some of the empty values being resolved using known information. Some inconsistent formats, such as "Chili Beef" and "Chilli Beef".
+1. **Data cleaning**: Item names and prices were missing, with some of the empty values being resolved using known information. Some inconsistent formats, such as "Beef Chili" and "Beef Chilli".
 2. **Visualisations from Pivot Tables**: 
 - Line chart for revenue trend.
 - Horizontal bar chart for top performing menu items.
