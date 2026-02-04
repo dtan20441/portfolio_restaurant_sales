@@ -1,7 +1,7 @@
 # Visualising and Cleaning Sales Data of a Restaurant
 ## Overview 
 The goal of this project is to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer paying behaviour and revenue trends.  
-The original dataset, cleaned dataset, pivot tables and dashboard can all be found here [here](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_sales_data.xlsx).
+The original dataset, cleaned dataset, pivot tables and dashboard can all be found [here](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_sales_data.xlsx).
 
 Here is a snapshot of the dashboard: ![restaurant dashboard](https://github.com/dtan20441/portfolio_restaurant_sales/blob/main/restaurant_dashboard.png)
 
