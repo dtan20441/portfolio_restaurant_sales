@@ -1,4 +1,3 @@
-# Visualising and Cleaning Sales Data of a Restaurant
 ## Overview 
 The goal of this project is to design an interactive dashboard that helps restaurant stakeholders track sales performance, customer paying behaviour and revenue trends from January 2022 to December 2023. 
 
